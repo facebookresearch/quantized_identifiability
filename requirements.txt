@@ -257,10 +257,6 @@ soupsieve=2.3.2.post1=py37hecd8cb5_0
 sqlite=3.33.0=hffcf06c_0
 tapi=1000.10.8=ha1b3eb9_0
 tenacity=8.0.1=py37hecd8cb5_1
-tensorboard=2.0.0=pyhb38c66f_1
-tensorflow=2.0.0=mkl_py37hda344b4_0
-tensorflow-base=2.0.0=mkl_py37h66b1bf0_0
-tensorflow-estimator=2.0.0=pyh2649769_0
 termcolor=2.1.0=py37hecd8cb5_0
 terminado=0.17.1=py37hecd8cb5_0
 theano=1.0.5=py37he9d5cce_1
@@ -276,7 +272,6 @@ traitlets=5.7.1=py37hecd8cb5_0
 typing-extensions=4.4.0=py37hecd8cb5_0
 typing_extensions=4.4.0=py37hecd8cb5_0
 urllib3=1.26.14=py37hecd8cb5_0
-wandb=0.13.9=pyhd8ed1ab_0
 wcwidth=0.2.5=pyhd3eb1b0_0
 webencodings=0.5.1=py37_1
 websocket-client=0.58.0=py37hecd8cb5_4
